@@ -33,7 +33,8 @@ int main(int argc, char *argv[]) {
 					printf("Nome: %s Preco: %f Estoque: %d\n", produto[i].nome, produto[i].preco, produto[i].estoque);
 				}
 				
-			
+			case 3:
+				
 		}
 	}while(choice != 3);
 	
