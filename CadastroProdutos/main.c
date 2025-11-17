@@ -34,7 +34,7 @@ int main(int argc, char *argv[]) {
 				}
 				
 			case 3:
-				
+				printf("Buscar produto:");
 		}
 	}while(choice != 3);
 	
